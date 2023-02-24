@@ -5,13 +5,13 @@
 <p align="center">
  Studying Bachelor of Science in Software Engineering, <p>
   <div align="center">
-   <a  href="http://iit.du.ac.bd">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
+   <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
   
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-- 🔭 I’m currently working on <a  href="https://github.com/mehzabin-haque/EtherCast"><b>EtherCast </b></a> 
+- 🔭 I’m currently working on <a  href="https://github.com/mehzabin-haque/EtherCast" target="_blank" ><b>EtherCast </b></a> 
   
 
 - 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT,**
