@@ -8,8 +8,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehzabin-haque" alt="mehzabin-haque" /></a> </p>
-
 - 🔭 I’m currently working on **EtherCast**
 
 - 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT, NEXT JS, NODE JS, C++, C, Python**
