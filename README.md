@@ -5,7 +5,7 @@
 <p align="center">
  Studying Bachelor of Science in Software Engineering, <p>
   <div align="center">
- <a  href="http://iit.du.ac.bd">Institute of Information Technology</a> **University of Dhaka**  </div>
+   <a  href="http://iit.du.ac.bd">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
   
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
