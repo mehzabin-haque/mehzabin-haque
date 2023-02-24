@@ -4,7 +4,8 @@
 > Studying Bachelor of Science in Software Engineering,
 
 > [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center"> <b> A passionate frontend developer from Bangladesh </b></h3>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
