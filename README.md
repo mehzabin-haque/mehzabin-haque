@@ -4,9 +4,8 @@
  <h2 align="center"> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
 <p align="center">
  Studying Bachelor of Science in Software Engineering, <p>
-<p align="center">
- [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka** <p>
-      
+  
+ <a align="center" href="http://iit.du.ac.bd">Institute of Information Technology</a> **University of Dhaka** 
   
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
