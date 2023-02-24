@@ -11,7 +11,8 @@
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-- 🔭 I’m currently working on **EtherCast**
+- 🔭 I’m currently working on <a  href="https://github.com/mehzabin-haque/EtherCast"><b>EtherCast </b></a> 
+  
 
 - 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT,**
  **NEXT JS, NODE JS, C++, C, Python**
