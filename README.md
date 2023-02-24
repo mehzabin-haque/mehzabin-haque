@@ -1,7 +1,7 @@
  
- ![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg)
+ <div align="center">![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg) </div>
           
- <h2> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
+ <h2 align="center"> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
 <p align="center">
  >Studying Bachelor of Science in Software Engineering, <p>
 <p align="center">
@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working on **EtherCast**
 
-- 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT, 
-  NEXT JS, NODE JS, C++, C, Python**
+- 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT,**
+ **NEXT JS, NODE JS, C++, C, Python**
 
 - 👨‍💻 All of my projects are available at [https://mehzabin-haque.github.io/Meh%20Portfolio/](https://mehzabin-haque.github.io/Meh%20Portfolio/)
 
