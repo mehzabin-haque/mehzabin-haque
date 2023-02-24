@@ -1,13 +1,15 @@
 <div align="center">
 ![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg)
+            
 ## Hi, I'm Mehzabin Haque 🇧🇩
 
 > Studying Bachelor of Science in Software Engineering,
 
 > [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
+            
   
 <br><br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 - 🔭 I’m currently working on **EtherCast**
