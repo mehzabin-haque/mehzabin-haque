@@ -1,17 +1,19 @@
+<div align="center">
 ![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg)
 ## Hi, I'm Mehzabin Haque 🇧🇩
 
 > Studying Bachelor of Science in Software Engineering,
 
 > [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
-<h3 align="center"> <b> A passionate frontend developer from Bangladesh </b></h3>
+  
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 - 🔭 I’m currently working on **EtherCast**
 
-- 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT, NEXT JS, NODE JS, C++, C, Python**
+- 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT, 
+  NEXT JS, NODE JS, C++, C, Python**
 
 - 👨‍💻 All of my projects are available at [https://mehzabin-haque.github.io/Meh%20Portfolio/](https://mehzabin-haque.github.io/Meh%20Portfolio/)
 
@@ -35,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehzabin-haque&show_icons=true&locale=en" alt="mehzabin-haque" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehzabin-haque&" alt="mehzabin-haque" /></p>
+  
+ </div>
