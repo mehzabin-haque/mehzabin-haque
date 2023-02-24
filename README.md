@@ -1,11 +1,11 @@
  
- <div align="center">![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg) </div>
+ <div align="center"> Hi, I'm Mehzabin Haque (https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg) </div>
           
  <h2 align="center"> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
 <p align="center">
- >Studying Bachelor of Science in Software Engineering, <p>
+ Studying Bachelor of Science in Software Engineering, <p>
 <p align="center">
- >[Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka** <p>
+ [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka** <p>
       
   
 <br><br>
