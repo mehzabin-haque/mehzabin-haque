@@ -15,12 +15,12 @@
 - 🔭 I’m currently working on <a  href="https://github.com/shazzad5709/EtherCast?fbclid=IwAR1hQrFuklnkS2KTIDk3NGxpPI8mGv_Y7QyCWkus2qCvENlVVJlX2nIuzwc" target="_blank" ><b>EtherCast </b></a> 
   
 
-- 🌱 I’m currently learning **JS, HTML, CSS, PHP, REACT,**
+- 🌱 I’m currently learning **PHP, React.js, Node.js**
  **NEXT JS, NODE JS, C++, C, Python**
 
 - 👨‍💻 All of my projects are available at <a  href="https://mehzabin-haque.github.io/Meh%20Portfolio/" target="_blank" >Mehzabin's Portfolio</a>
 
-- 💬 Ask me about **C++, Python, HTML, CSS, Node JS, Java**
+- 💬 Ask me about **C++, Python, HTML, CSS, Java, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
