@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://tenor.com/en-GB/view/welcome-gif-26521859)
+![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg)
 
           
  <h2 align="center"> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
