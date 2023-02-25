@@ -16,11 +16,11 @@
   
 
 - 🌱 I’m currently learning 
- **NEXT JS, NODE JS, C++, C, Python, React.js, Node.js, PHP**
+ **Next.js, Python, React.js, Node.js, PHP, HTML, CSS, Bootstrap **
 
 - 👨‍💻 All of my projects are available at <a  href="https://mehzabin-haque.github.io/Meh%20Portfolio/" target="_blank" >Mehzabin's Portfolio</a>
 
-- 💬 Ask me about **C++, Python, HTML, CSS, Java, JavaScript**
+- 💬 Ask me about **C++, C, Python, HTML, CSS, Java, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
