@@ -1,5 +1,5 @@
 
-[![MasterHead](https://tenor.com/bXrH5.gif)](https://mehzabin-haque.io)
+[![MasterHead](https://tenor.com/bXrH5.gif)]
 
           
  <h2 align="center"> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
