@@ -15,8 +15,8 @@
 - 🔭 I’m currently working on <a  href="https://github.com/shazzad5709/EtherCast?fbclid=IwAR1hQrFuklnkS2KTIDk3NGxpPI8mGv_Y7QyCWkus2qCvENlVVJlX2nIuzwc" target="_blank" ><b>EtherCast </b></a> 
   
 
-- 🌱 I’m currently learning 
- **Next.js, Python, React.js, Node.js, PHP, HTML, CSS, Bootstrap **
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, PHP, React.js,**
+ **Next.js, Node.js, C++, C, Python**
 
 - 👨‍💻 All of my projects are available at <a  href="https://mehzabin-haque.github.io/Meh%20Portfolio/" target="_blank" >Mehzabin's Portfolio</a>
 
