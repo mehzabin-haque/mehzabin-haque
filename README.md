@@ -1,5 +1,6 @@
  
-![Hi, I'm Mehzabin Haque](https://github.com/mehzabin-haque/mehzabin-haque/blob/main/hi.svg)
+![Hi, I'm Mehzabin Haque](https://tenor.com/bXrH5.gif)
+
           
  <h2 align="center"> Hi, I'm Mehzabin Haque 🇧🇩 </h2>
 <p align="center">
