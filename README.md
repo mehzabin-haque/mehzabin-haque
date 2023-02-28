@@ -22,6 +22,8 @@
 
 - 💬 Ask me about **C++, C, Python, HTML, CSS, Java, JavaScript**
 
+<br>
+
 ## Connect with me
 
 <p align="left">
