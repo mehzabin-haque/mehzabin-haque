@@ -16,7 +16,7 @@
   
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, PHP, React.js,**
- **Next.js, Node.js, C++, C, Python**
+ **Next.js, Node.js, C++, C, Python, Angular**
 
 - 👨‍💻 All of my projects are available at <a  href="https://mehzabin-haque.github.io/Meh%20Portfolio/" target="_blank" >Mehzabin's Portfolio</a>
 
