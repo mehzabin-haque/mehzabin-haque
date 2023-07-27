@@ -2,22 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F69C17&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Mehzabin+%F0%9F%98%83+----&repeat=false">
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Web+and+Mobile+App+Developer;Creating+captivating+digital+experiences;Software+Engineering+Student+from+IIT+DU;Research+Intern+in+UIUC"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%008080&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT+DU;Research+Intern+in+UIUC;Tech+enthusiast+exploring+boundless+possibilities;Eager+AI+Explorer;Ambitious+Blockchain+Developer;Tech+Savvy+Web+Developer"></a>
 </p>
 
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-- 🔭 I’m currently working on <a  href="https://github.com/shazzad5709/EtherCast?fbclid=IwAR1hQrFuklnkS2KTIDk3NGxpPI8mGv_Y7QyCWkus2qCvENlVVJlX2nIuzwc" target="_blank" ><b>EtherCast </b></a> 
+- 🔭 I’m currently working on <a  href="https://github.com/shazzad5709/EtherCast?fbclid=IwAR1hQrFuklnkS2KTIDk3NGxpPI8mGv_Y7QyCWkus2qCvENlVVJlX2nIuzwc" target="_blank" ><b> </b></a> 
   
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, PHP, React.js,**
- **Next.js, Node.js, C++, C, Python, Angular**
+- 🌱 I’m currently learning **Artificial intelligence, Distributed Systems, Mobile development, Flutter**
+ **Software Testing and Quality Assurance,Software Design and Analysis**
 
-- 👨‍💻 All of my projects are available at <a  href="https://mehzabin-haque.github.io/Meh%20Portfolio/" target="_blank" >Mehzabin's Portfolio</a>
+- 👨‍💻 All of my projects are available at <a  href="https://mehzabin-haque.netlify.app/" target="_blank" >Mehzabin's Portfolio</a>
 
-- 💬 Ask me about **C++, C, Python, HTML, CSS, Java, JavaScript**
+- 💬 Ask me about **C++, C, Python, HTML, CSS, Java, JavaScript, Next.js, Node.js, React.js, MongoDB, Angular, Solidity, Ethers.js**
 
 <br>
 
