@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=008080&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Mehzabin+%2E%8B%5A%BA+----&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=008080&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Mehzabin+%2E%8B%5A%BA+----">
 </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=22787a&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+DU;Research+Intern+in+UIUC;Tech+enthusiast+exploring+boundless+possibilities;Eager+AI+Explorer;Ambitious+Blockchain+Developer;Tech+Savvy+Web+Developer"></a>
