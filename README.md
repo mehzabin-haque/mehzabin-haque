@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=008080&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Mehzabin+----+&repeat=false">
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=4EA0A1&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+DU;Research+Intern+in+UIUC;Ambitious+Blockchain+Developer;Creative+and+curious+learner;Adaptable+and+Resourceful;Eager+AI+Explorer;Passionate+about+technology;Tech+Savvy+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=4EA0A1&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+DU;Ambitious+Blockchain+Developer;Creative+and+curious+learner;Adaptable+and+Resourceful;Eager+AI+Explorer;Passionate+about+technology;Tech+Savvy+Web+Developer"></a>
 </p>
 
 <br><br>
